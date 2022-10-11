@@ -1,0 +1,19 @@
+html {
+    /* font-family: Helveticaaaaaaaaaaaaaa, Helvetica, sans-serif; */
+    /* font-family: serif; */
+    /* font-family: monospace; */
+    /* font-family: cursive; */
+    /* font-family: fantasy; */
+    font-family: 'Lato', sans-serif;
+    /* font-size: 1.5rem; */
+    /* font-size: 10vw; */
+    font-size: 24px;
+    /* font-weight: bold; */
+    font-weight: 400;
+    font-style: italic;
+    /* color: tomato; */
+    /* color: rgb(128, 0, 255); */
+    /* color: #8800ff; */
+    /* color: #40771b; */
+    color: rgba(128, 0, 255, 0.5);
+}
