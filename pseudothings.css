@@ -1,3 +1,24 @@
 body {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
+
+a:hover {
+  background-color: lightpink;
+}
+
+a::after {
+  content: "🤞";
+}
+
+.extra {
+  margin: 50px;
+  width: 200px;
+  height: 200px;
+  background-color: firebrick;
+
+  box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.5);
+  border: 5px solid black;
+  /* border-radius: 25px; */
+  border-radius: 50%;
+  cursor: pointer;
+}
