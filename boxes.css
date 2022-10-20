@@ -1,23 +1,25 @@
-.outer-box{
-  width: 200px;
-  height: 100px;
-  padding: 10px 25px 0 50px;
-  border: 2px dashed goldenrod;
-  margin: 10px;
+.outer-box {
+    width: 200px;
+    height: 100px;
+    padding: 10px 25px 0 50px;
+    border: 1px solid slategray;
+    margin: 10px;
+    overflow: scroll;
 }
 
 #special-div {
-  margin-top: 100px;
+    margin-top: 100px;
+    padding-left: 100px;
 }
 
-#container{
-  width: 100%;
-  height: initial;
+#container {
+    width: 100%;
+    height: initial;
 }
 
 #container p {
-  display: inline-block;
-  border: 2px solid dimgray;
-  width: 100px;
-  height: 100px;
+    display: inline-block;
+    border: 1px solid gray;
+    width: 100px;
+    height: 100px;
 }
