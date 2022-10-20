@@ -1,0 +1,39 @@
+p {
+  color: yellow;
+}
+
+
+h1 {
+  border: 4px dashed lime;
+}
+
+
+.bold-text {
+  font-weight: bold;
+
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+
+#the-title {
+  background-color: blanchedalmond;
+}
+
+p.bold-text {
+  background-color: turquoise;
+}
+
+.bold-text.italic-text {
+  text-decoration: underline;
+}
+
+.bold-text p {
+  color: dodgerblue;
+}
+
+.bold-text, .italic-text{
+  font-size: 10px;
+}
